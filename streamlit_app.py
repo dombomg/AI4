@@ -71,17 +71,22 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": [""],
+       "texts": ["바닐라 라떼는 달달합니다."],
        "images": [""],
        "videos": [""]
      },
      labels[1]: {
-       "texts": [""],
+       "texts": ["아이스 아케리카노는 쓴맛이납니다."],
        "images": [""],
        "videos": [""]
      },
      labels[2]: {
-       "texts": [""],
+       "texts": ["카페모카는 약간의 초콜릿맛이 납니다."],
+       "images": [""],
+       "videos": [""]
+     },
+    labels[3]: {
+       "texts": ["카푸치노는 커피 본연의 맛을 느낄수있습니다."],
        "images": [""],
        "videos": [""]
      },
