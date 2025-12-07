@@ -73,22 +73,22 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["바닐라 라떼는 달달합니다."],
        "images": ["https://media.sodagift.com/img/image/666256337667460.jpg"],
-       "videos": [""]
+       "videos": ["https://www.youtube.com/watch?v=g5zNKafjc0U"]
      },
      labels[1]: {
        "texts": ["아이스 아케리카노는 쓴맛이납니다."],
        "images": ["https://d2afncas1tel3t.cloudfront.net/wp-content/uploads/211001_%EB%B9%85%EC%95%84%EC%9D%B4%EC%8A%A4%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-1280.jpg"],
-       "videos": [""]
+       "videos": ["https://www.youtube.com/watch?v=umgrvze5k_Q"]
      },
      labels[2]: {
        "texts": ["카페모카는 약간의 초콜릿맛이 납니다."],
        "images": ["https://composecoffee.com/files/attach/images/152/609/038/c900d01add4487d8edcfc1857a70b52f.jpg"],
-       "videos": [""]
+       "videos": ["https://www.youtube.com/shorts/uRFZjWAGjsY"]
      },
     labels[3]: {
        "texts": ["카푸치노는 커피 본연의 맛을 느낄수있습니다."],
        "images": ["https://www.ondolnews.com/data/photos/20150102/art_1420923270.jpg"],
-       "videos": [""]
+       "videos": ["https://www.youtube.com/shorts/a5dmu0vc3dQ"]
      },
 }
 
